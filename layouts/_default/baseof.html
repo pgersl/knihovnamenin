@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <link rel="apple-touch-icon" sizes="180x180" href="/media/imgs/fav/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="/media/imgs/fav/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/media/imgs/fav/favicon-16x16.png">
+        <link rel="manifest" href="/media/imgs/fav/site.webmanifest">
+
+        <link rel="stylesheet" href="/css/root.css">
+        <link rel="stylesheet" href="/css/base.css">
+        {{block "styles" .}}{{end}}
+
+        <script src="https://kit.fontawesome.com/9ab7bfa7fc.js" crossorigin="anonymous"></script>
+        <script src="/js/nav.js" defer></script>
+        {{block "scripts" .}}{{end}}
+
+        <title>{{.Title}}</title>
+    </head>
+    <body>
+        <nav>
+            <div class="nav-wrapper">
+                <a href="/" class="nav-site-logo">
+                    <img src="/media/imgs/base/horizontal.svg" alt="logo">
+                </a>
+                <button id="nav-toggle-button"><i id="nav-toggle-icon" class="fa-solid fa-bars"></i></button>
+                <div class="nav-links">
+                    <a href="https://docs.google.com/forms/d/e/1FAIpQLSfIEgSKKFIwfj9qEIynyYx0EZpyV_w78C5hW9yHu5zcEmD-4w/viewform?usp=sf_link" class="primary-button">Předregistrace</a>
+                    <a href="/info/cenik" class="nav-link">Ceník</a>
+                    <a href="/kontakt" class="nav-link">Kontakt</a>
+                    <a href="https://kurim.tritius.cz/library/menin" class="secondary-button">Katalog</a>
+                </div>
+            </div>
+        </nav>
+        <main>
+            {{block "main" .}}{{end}}
+        </main>
+        <footer>
+            <div class="footer-wrapper">
+                <div class="footer-content">
+                    <div class="footer-info">
+                        <a href="/" class="footer-site-logo">
+                            <img src="/media/imgs/base/horizontal.svg" alt="logo">
+                        </a>
+                        <p><i class="fa-solid fa-clock"></i>Otevírací doba: Út 16:00 &ndash; 20:00</p>
+                        <p><i class="fa-solid fa-house"></i>Měnín 570, 664 57 Měnín</p>
+                        <p><i class="fa-solid fa-phone"></i><a href="tel:+420544224521" class="footer-link">544 224 521</a></p>
+                        <p><i class="fa-solid fa-envelope"></i><a href="mailto:knihovna@menin.cz" class="footer-link">knihovna@menin.cz</a></p>
+                        <p><a href="https://www.facebook.com/profile.php?id=100063177643706" class="logo-link"><i class="fa-brands fa-square-facebook"></i></a></p>
+                    </div>
+                    <div class="footer-columns">
+                        <div class="footer-column">
+                            <p class="footer-column-title">Navigace</p>
+                            <a href="/" class="footer-link">Domů</a>
+                            <a href="/info/cenik" class="footer-link">Ceník</a>
+                            <a href="/kontakt" class="footer-link">Kontakt</a>
+                            <a href="https://kurim.tritius.cz/library/menin" class="footer-link">Katalog</a>
+                            <a href="https://docs.google.com/forms/d/e/1FAIpQLSfIEgSKKFIwfj9qEIynyYx0EZpyV_w78C5hW9yHu5zcEmD-4w/viewform?usp=sf_link" class="primary-button">Předregistrace</a>
+                        </div>
+                        <div class="footer-column">
+                            <p class="footer-column-title">Knihovna</p>
+                            <a href="/info/o-nas" class="footer-link">O nás</a>
+                            <a href="https://docs.google.com/forms/d/e/1FAIpQLSfmMkwC799blgESQza7lVn5_yNqnd-cFihVQz-4LSOXsBmlqw/viewform?usp=sf_link" class="footer-link">Dotazník spokojenosti</a>
+                            <a href="/info/rad-knihovny" class="footer-link">Řád knihovny</a>
+                        </div>
+                        <div class="footer-column">
+                            <p class="footer-column-title">Odkazy</p>
+                            <a href="https://www.knihovny.cz/" class="footer-link">Knihovny.cz</a>
+                            <a href="https://www.ptejteseknihovny.cz/" class="footer-link">Ptej se knihovny</a>
+                            <a href="https://www.mzk.cz/" class="footer-link">Moravská zemská knihovna</a>
+                            <a href="https://www.kjm.cz/" class="footer-link">Knihovna Jiřího Mahena</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="subfooter">
+                    <p class="subfooter-copy">&copy; 2024 Obecní knihovna Měnín</p>
+                    <p class="subfooter-signature">Designed by <a href="https://pgersl.xyz/">Petr Geršl</a></p>
+                </div>
+            </div>
+        </footer>
+    </body>
+</html>

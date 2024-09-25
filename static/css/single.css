@@ -1,0 +1,97 @@
+#header {
+    --s: 80px; /* control the size*/
+    --c1: var(--primary-clr-darkest);
+    --c2: var(--primary-clr-darker);
+    
+    --_c: var(--c1) 25%,#0000 0;
+    --_g1: conic-gradient(at 62.5% 12.5%,var(--_c));
+    --_g2: conic-gradient(at 87.5% 62.5%,var(--_c));
+    --_g3: conic-gradient(at 25%   12.5%,var(--_c));
+    background:
+      var(--_g1) calc( var(--s)/-8) calc(var(--s)/2),var(--_g1) calc(-3*var(--s)/8) calc(var(--s)/4),
+      var(--_g2) calc(3*var(--s)/8) calc(var(--s)/4),var(--_g2) calc(  var(--s)/-8) 0,
+      var(--_g3) 0 calc(var(--s)/-4),var(--_g3) calc(var(--s)/-4) 0,
+      conic-gradient(at 87.5% 87.5%,var(--_c)) calc(var(--s)/8) 0
+      var(--c2);
+    background-size: var(--s) var(--s);
+    color: var(--background-clr1);
+    text-align: center;
+}
+#header h1 {
+    margin-bottom: 0;
+}
+
+.section-content {
+    width: var(--narrow);
+}
+
+.pricing {
+    border-collapse: collapse;
+    margin-bottom: 2rem;
+}
+.pricing:nth-of-type(2), .pricing:nth-of-type(4) {
+    margin-top: 1rem;
+}
+.pricing td {
+    padding-block: .3rem;
+}
+td.bold {
+    font-weight: bold;
+    padding-left: 2rem;
+    white-space: nowrap;
+}
+
+h4 a {
+    text-decoration: underline;
+    color: inherit;
+}
+h4 a:hover {
+    color: var(--primary-clr);
+}
+
+.contact-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+    width: fit-content;
+    margin-top: 2rem;
+}
+.contact-container img {
+    width: 10rem;
+    border-radius: 100%;
+}
+.contact-info {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+}
+.contact-info a {
+    color: inherit;
+}
+.contact-info a:hover {
+    color: var(--primary-clr);
+}
+
+p {
+    margin-bottom: 1rem;
+}
+
+.řád-knihovny strong {
+    text-align: center;
+    display: block;
+}
+
+p img {
+    width: 100%;
+    margin-block: 1rem;
+}
+
+@media (max-width:400px) {
+    .contact-container {
+        flex-direction: column;
+        gap: .7rem;
+    }
+}

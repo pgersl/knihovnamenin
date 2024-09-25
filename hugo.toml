@@ -1,0 +1,12 @@
+baseURL = 'https://knihovna-menin.cz/'
+languageCode = 'cs-cz'
+title = 'Obecní knihovna Měnín'
+
+uglyURLs = false
+enableEmoji = true
+
+[params]
+    description = "Oficiální stránky Obecní knihovny Měnín"
+
+[markup.goldmark.renderer]
+    unsafe = "true"

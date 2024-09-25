@@ -1,0 +1,11 @@
+<div class="contact-container">
+    <img src="/media/imgs/profiles/{{.Get "img"}}">
+    <div class="contact-info">
+        <strong>{{.Get "name"}}</strong>
+        <em>{{.Get "position"}}</em>
+        {{with .Get "email"}}<a href="mailto:{{.}}">{{.}}</a>{{end}}
+        {{$phone := .Get "phone"}}
+        {{$phoneLink := replace $phone " " ""}}
+        <a href="tel:{{$phoneLink}}">{{$phone}}</a>
+    </div>
+</div>

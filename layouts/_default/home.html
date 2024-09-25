@@ -1,0 +1,54 @@
+{{define "styles"}}<link rel="stylesheet" href="/css/home.css">{{end}}
+
+{{define "main"}}
+    <section id="hero">
+        <div class="section-wrapper">
+            <div class="mega-text">Obecní<br>knihovna<br><span class="primary-text">Měnín</span></div>
+            <p>Ta nejlepší literatura hned u nás za rohem!</p>
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLSfIEgSKKFIwfj9qEIynyYx0EZpyV_w78C5hW9yHu5zcEmD-4w/viewform?usp=sf_link" class="primary-button">Předregistrace</a>
+        </div>
+    </section>
+    <section id="how">
+        <div class="section-wrapper">
+            <h1>Jak to funguje?</h1>
+            <div id="how-row">
+                <p>
+                    <i class="fa-solid fa-book-open-reader"></i>
+                    Obecní knihovna Měnín je tady úplně pro jakéhokoliv čtenáře. Aby si kdokoliv mohl začít půjčovat knížky, je nejprve potřeba vyplnit <a href="https://docs.google.com/forms/d/e/1FAIpQLSfIEgSKKFIwfj9qEIynyYx0EZpyV_w78C5hW9yHu5zcEmD-4w/viewform?usp=sf_link">předregistrační formulář</a>. Po jeho vyplnění se stačí dostavit přímo do knihovny a zaplatit registrační poplatek. Potom obdržíte čtenářský průkaz a můžete směle číst.
+                </p>
+                <p>
+                    <i class="fa-solid fa-book"></i>
+                    Aby se výběr v knkihovně neomrzel, pravidelně ho rozšiřujeme. Zhruba každý měsíc máme několik nových přírůstků. Spolupracujeme také s dalšími obecními knihovnami v rámci výměnného fondu a díky tomu můžeme dočasně nabízet také tituly jiných knihoven. 
+                </p>
+                <p>
+                    <i class="fa-solid fa-users"></i>
+                    V budoucnosti chceme klást větší důraz na zapojení knihovny do veřejného dění. Plánujeme otevření čtenářského kroužku pro žáky naší školy, abychom je i v dnešní dibě digitální motivovali ke čtení knih. 
+                </p>
+            </div>
+        </div>
+    </section>
+    <section id="news">
+        <div class="section-wrapper">
+            <h1>Aktuálně</h1>
+            <div id="news-row">
+                {{range where .Site.Pages ".Params.type" "news"}}
+                    <div class="news-entry">
+                        <h3>{{.Title}}</h3>
+                        {{.Content}}
+                    </div>
+                {{end}}
+            </div>  
+        </div>
+    </section>
+    <section id="catalogue">
+        <div class="section-wrapper">
+            <h1>Novinky v katalogu</h1>
+            <div id="catalogue-row">
+                {{with .Site.GetPage "katalog.md"}}
+                    {{.Content}}
+                {{end}}
+            </div>
+        </div>
+    </section>
+    {{partial "cta.html"}}
+{{end}}

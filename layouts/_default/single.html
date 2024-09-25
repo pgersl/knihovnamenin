@@ -1,0 +1,15 @@
+{{define "styles"}} <link rel="stylesheet" href="/css/single.css">{{end}}
+
+{{define "main"}}
+    <section id="header">
+        <div class="section-content">
+            <h1>{{.Title}}</h1>
+        </div>
+    </section>
+    <section id="main-content">
+        {{$id := replace .Title " " "-"}}
+        {{$id = lower $id}}
+        <div class="section-content {{$id}}">{{.Content}}</div>
+    </section>
+    {{partial "cta.html" .}}
+{{end}}
