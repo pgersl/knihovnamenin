@@ -4,96 +4,80 @@ title: Katalog
 
 {{< catalogue-entry 
 type="kniha"
-cover="https://www.obalkyknih.cz/file/cover/2676357/medium"
-title="Otrapové, škodiči, naschválníci, prudiči"
-author="Dagmar Kýrová, Aneta Žabková"
-publisher="Euromedia Group, 2021"
+cover="https://www.obalkyknih.cz/file/cover/3226554/medium"
+title="Lapuťák a kapitán Adorabl"
+author="Dominik Landsman"
+publisher="Pikola, 2017"
 >}}
 
 {{< catalogue-entry 
 type="kniha"
-cover="https://www.obalkyknih.cz/file/cover/2664279/medium"
-title="Když ptáčka lapají, manželé mu zpívají"
-author="Alena Jakoubková"
-publisher="MOBA, 2021"
+cover="https://www.obalkyknih.cz/file/cover/2320392/medium"
+title="Kapitán Adorabl a bambitka černokněžníka Vorána"
+author="Dominik Landsman"
+publisher="Pikola, 2019"
 >}}
 
 {{< catalogue-entry 
 type="kniha"
-cover="https://www.obalkyknih.cz/file/cover/3151886/medium"
-title="Bridgertonovi – prequel: Skandál na spadnutí"
-author="Julia Quinnová"
-publisher="Ikar, 2021"
+cover="https://www.obalkyknih.cz/file/cover/3262420/medium"
+title="Kapitán Adorabl a Toulavý ostrov"
+author="Dominik Landsman, Ondřej Vojtěch"
+publisher="Pikola, 2024"
 >}}
 
 {{< catalogue-entry 
 type="kniha"
-cover="https://www.obalkyknih.cz/file/cover/2667696/medium"
-title="Hřích náš každodenní"
-author="Dominik Dán"
-publisher="Slovart, 2021"
+cover="https://www.obalkyknih.cz/file/cover/3194387/medium"
+title="Eliška"
+author="Táňa Keleová-Vasilková"
+publisher="Noxi, 2024"
 >}}
 
 {{< catalogue-entry 
 type="kniha"
-cover="https://www.obalkyknih.cz/file/cover/2675802/medium"
-title="Marta spí"
-author="Romy Hausmann"
-publisher="Euromedia Group, 2021"
+cover="https://www.obalkyknih.cz/file/cover/3250833/medium"
+title="Kočky a jejich báječný svět"
+author="John Bradshaw"
+publisher="Bambook, 2025"
 >}}
 
 {{< catalogue-entry 
 type="kniha"
-cover="https://www.obalkyknih.cz/file/cover/2404554/medium"
-title="Milé dítě"
-author="Romy Hausmannová"
-publisher="Euromedia Group, 2020"
+cover="https://www.obalkyknih.cz/file/cover/3250792/medium"
+title="Mrtvá z ostrova Skye"
+author="J. M. Dalgliesh"
+publisher="Cosmopolis, 2025"
 >}}
 
 {{< catalogue-entry 
 type="kniha"
-cover="https://www.obalkyknih.cz/file/cover/2682012/medium"
-title="Imitátor"
-author="Daniel Cole"
-publisher="Euromedia Group, 2021"
+cover="https://www.obalkyknih.cz/file/cover/3262408/medium"
+title="Poslouchej, kdo lže"
+author="Amy Tintera"
+publisher="Kalibr, 2025"
 >}}
 
 {{< catalogue-entry 
 type="kniha"
-cover="https://www.obalkyknih.cz/file/cover/3081467/medium"
-title="Sirotčinec slečny Peregrinové: Knihovna duší"
-author="Ransom Riggs"
-publisher="Jota, 2016"
+cover="https://www.obalkyknih.cz/file/cover/3251583/medium"
+title="Rok kobylek"
+author="Terry Hayes"
+publisher="Kalibr, 2025"
 >}}
 
 {{< catalogue-entry 
 type="kniha"
-cover="https://www.obalkyknih.cz/file/cover/945125/medium"
-title="Asylum"
-author="Madeleine Rouxová"
-publisher="Jota, 2014"
+cover="https://www.obalkyknih.cz/file/cover/3212154/medium"
+title="Stříbrná maska"
+author="Vondruška Vlastimil"
+publisher="MOBA, 2025"
 >}}
 
 {{< catalogue-entry 
 type="kniha"
-cover="https://www.obalkyknih.cz/file/cover/2681861/medium"
-title="Tanec smrti"
-author="Louise Boije af Gennäs"
-publisher="Euromedia Group, 2021"
->}}
-
-{{< catalogue-entry 
-type="kniha"
-cover="https://www.obalkyknih.cz/file/cover/2492202/medium"
-title="Gigolo : zpověď luxusního společníka"
-author="Dominik Král"
-publisher="Fortuna Libri, 2020"
->}}
-
-{{< catalogue-entry 
-type="kniha"
-cover="https://www.obalkyknih.cz/file/cover/2638574/medium"
-title="Nové začátky"
-author="Lilly Lucas"
-publisher="Red, 2021"
+cover="https://www.obalkyknih.cz/file/cover/3251290/medium"
+title="Zločin na Capri"
+author="Anders de la Motte , Anette de la Motte"
+publisher="Kalibr, 2025"
 >}}
