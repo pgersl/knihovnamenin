@@ -4,80 +4,81 @@ title: Katalog
 
 {{< catalogue-entry 
 type="kniha"
-cover="https://www.obalkyknih.cz/file/cover/3226554/medium"
-title="Lapuťák a kapitán Adorabl"
-author="Dominik Landsman"
-publisher="Pikola, 2017"
+cover="https://www.obalkyknih.cz/file/cover/3304389/preview510"
+title="Jeden z nás je zpět"
+author="Karen M. McManus"
+publisher="Yoli, 2025"
 >}}
 
 {{< catalogue-entry 
 type="kniha"
-cover="https://www.obalkyknih.cz/file/cover/2320392/medium"
-title="Kapitán Adorabl a bambitka černokněžníka Vorána"
-author="Dominik Landsman"
-publisher="Pikola, 2019"
+cover="https://www.obalkyknih.cz/file/cover/3291259/preview510"
+title="Tiché kroky na schodech"
+author="Eva Björg Ægisdóttir"
+publisher="Vendeta, 2025"
+>}}
+
+
+{{< catalogue-entry 
+type="kniha"
+cover="https://www.obalkyknih.cz/file/cover/3333863/preview510"
+title="Román měsíce"
+author="Jennifer Probst"
+publisher="Ikar, 2025"
 >}}
 
 {{< catalogue-entry 
 type="kniha"
-cover="https://www.obalkyknih.cz/file/cover/3262420/medium"
-title="Kapitán Adorabl a Toulavý ostrov"
-author="Dominik Landsman, Ondřej Vojtěch"
-publisher="Pikola, 2024"
+cover="https://www.obalkyknih.cz/file/cover/3339967/preview510"
+title="Ledový Hrob"
+author="Dana Stabenow"
+publisher="Mystery Press, 2025"
 >}}
 
 {{< catalogue-entry 
 type="kniha"
-cover="https://www.obalkyknih.cz/file/cover/3194387/medium"
-title="Eliška"
-author="Táňa Keleová-Vasilková"
-publisher="Noxi, 2024"
+cover="https://www.obalkyknih.cz/file/cover/3289954/preview510"
+title="Bezduší mrtví"
+author="Darcy Caotes"
+publisher="Fobos, 2025"
 >}}
 
 {{< catalogue-entry 
 type="kniha"
-cover="https://www.obalkyknih.cz/file/cover/3250833/medium"
-title="Kočky a jejich báječný svět"
-author="John Bradshaw"
-publisher="Bambook, 2025"
+cover="https://www.obalkyknih.cz/file/cover/3181443/preview510"
+title="Nenasytní mrtví"
+author="Darcy Caotes"
+publisher="Fobos, 2024"
 >}}
 
 {{< catalogue-entry 
 type="kniha"
-cover="https://www.obalkyknih.cz/file/cover/3250792/medium"
-title="Mrtvá z ostrova Skye"
-author="J. M. Dalgliesh"
-publisher="Cosmopolis, 2025"
+cover="https://www.obalkyknih.cz/file/cover/3189147/preview510"
+title="Nenasytní mrtví"
+author="Angela Marsons"
+publisher="Fobos, 2025"
 >}}
 
 {{< catalogue-entry 
 type="kniha"
-cover="https://www.obalkyknih.cz/file/cover/3262408/medium"
-title="Poslouchej, kdo lže"
-author="Amy Tintera"
-publisher="Kalibr, 2025"
->}}
-
-{{< catalogue-entry 
-type="kniha"
-cover="https://www.obalkyknih.cz/file/cover/3251583/medium"
-title="Rok kobylek"
+cover="https://www.obalkyknih.cz/file/cover/3196260/preview510"
+title="Šest rakví"
 author="Terry Hayes"
+publisher="Kalibr, 2024"
+>}}
+
+{{< catalogue-entry 
+type="kniha"
+cover="https://www.obalkyknih.cz/file/cover/3298762/preview510"
+title="Schované jizvy"
+author="Angela Marsons"
 publisher="Kalibr, 2025"
 >}}
 
 {{< catalogue-entry 
 type="kniha"
-cover="https://www.obalkyknih.cz/file/cover/3212154/medium"
-title="Stříbrná maska"
-author="Vondruška Vlastimil"
-publisher="MOBA, 2025"
->}}
-
-{{< catalogue-entry 
-type="kniha"
-cover="https://www.obalkyknih.cz/file/cover/3251290/medium"
-title="Zločin na Capri"
-author="Anders de la Motte , Anette de la Motte"
-publisher="Kalibr, 2025"
+cover="https://www.obalkyknih.cz/file/cover/3335154/preview510"
+title="Rošťáci v akci a tajemství kouzelné jeskyně"
+author="Petra Martišková, Marie Koželuhová"
+publisher="Bambook, 2025"
 >}}
