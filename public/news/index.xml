@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>News on Obecní knihovna Měnín</title>
-    <link>http://localhost:57614/news/</link>
+    <link>http://localhost:1313/news/</link>
     <description>Recent content in News on Obecní knihovna Měnín</description>
     <generator>Hugo</generator>
     <language>cs-cz</language>
     <lastBuildDate>Tue, 02 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:57614/news/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/news/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nové stránky knihovny</title>
-      <link>http://localhost:57614/news/2/</link>
+      <link>http://localhost:1313/news/2/</link>
       <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:57614/news/2/</guid>
+      <guid>http://localhost:1313/news/2/</guid>
       <description>&lt;p&gt;V rámci uplatňování nové vizuální identity má knihovna nové stránky. Bohužel se nám nepodařilo zachovat původní doménu (&lt;a href=&#34;https://menin.knihovna.cz/&#34;&gt;menin.knihovna.cz&lt;/a&gt;) a stránky tudíž přesouváme na novou doménu (&lt;a href=&#34;https://knihovnamenin.cz&#34;&gt;knihovnamenin.cz&lt;/a&gt;). Původní doména bude za nedlouho nefunkční. Nové stránky zohledňují nejmodernější designové trendy a zaměřují se na pohodlný uživatelský zážitek.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Nová vizuální identita knihovny</title>
-      <link>http://localhost:57614/news/3/</link>
+      <link>http://localhost:1313/news/3/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:57614/news/3/</guid>
+      <guid>http://localhost:1313/news/3/</guid>
       <description>&lt;p&gt;Obecní knihovna Měnín získává novou vizuální identitu. Vychází z grafiky naší obce, dominuje tedy modrá barva. Zároveň má ale své vlastní prvky. Nové logo připomíná otevřenou knihu, zároveň jsou v něm ale skryta písmena K (knihovna) a M (Měnín). Těšíme se, až novou vizuální identitu budeme uplatňovat ve všech grafických materiálech knihovny. Celý grafický manuál je k nalezení &lt;a href=&#34;https://www.canva.com/design/DAGSOHfeWYM/OQu775oVfF5wMYrn2Lc4-A/view?utm_content=DAGSOHfeWYM&amp;amp;utm_campaign=designshare&amp;amp;utm_medium=link&amp;amp;utm_source=editor&#34;&gt;zde&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Obecní knihovna Měnín</title>
-    <link>http://localhost:57614/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Obecní knihovna Měnín</description>
     <generator>Hugo</generator>
     <language>cs-cz</language>
     <lastBuildDate>Tue, 02 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:57614/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nové stránky knihovny</title>
-      <link>http://localhost:57614/news/2/</link>
+      <link>http://localhost:1313/news/2/</link>
       <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:57614/news/2/</guid>
+      <guid>http://localhost:1313/news/2/</guid>
       <description>&lt;p&gt;V rámci uplatňování nové vizuální identity má knihovna nové stránky. Bohužel se nám nepodařilo zachovat původní doménu (&lt;a href=&#34;https://menin.knihovna.cz/&#34;&gt;menin.knihovna.cz&lt;/a&gt;) a stránky tudíž přesouváme na novou doménu (&lt;a href=&#34;https://knihovnamenin.cz&#34;&gt;knihovnamenin.cz&lt;/a&gt;). Původní doména bude za nedlouho nefunkční. Nové stránky zohledňují nejmodernější designové trendy a zaměřují se na pohodlný uživatelský zážitek.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Nová vizuální identita knihovny</title>
-      <link>http://localhost:57614/news/3/</link>
+      <link>http://localhost:1313/news/3/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:57614/news/3/</guid>
+      <guid>http://localhost:1313/news/3/</guid>
       <description>&lt;p&gt;Obecní knihovna Měnín získává novou vizuální identitu. Vychází z grafiky naší obce, dominuje tedy modrá barva. Zároveň má ale své vlastní prvky. Nové logo připomíná otevřenou knihu, zároveň jsou v něm ale skryta písmena K (knihovna) a M (Měnín). Těšíme se, až novou vizuální identitu budeme uplatňovat ve všech grafických materiálech knihovny. Celý grafický manuál je k nalezení &lt;a href=&#34;https://www.canva.com/design/DAGSOHfeWYM/OQu775oVfF5wMYrn2Lc4-A/view?utm_content=DAGSOHfeWYM&amp;amp;utm_campaign=designshare&amp;amp;utm_medium=link&amp;amp;utm_source=editor&#34;&gt;zde&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ceník</title>
-      <link>http://localhost:57614/info/cenik/</link>
+      <link>http://localhost:1313/info/cenik/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:57614/info/cenik/</guid>
+      <guid>http://localhost:1313/info/cenik/</guid>
       <description>&lt;h2 id=&#34;registrace&#34;&gt;Registrace&lt;/h2&gt;&#xA;&lt;table class=&#34;pricing&#34;&gt;&#xA;    &lt;tr&gt;&#xA;        &lt;td&gt;Registrační poplatek pro dospělé&lt;/td&gt;&#xA;        &lt;td class=&#34;bold&#34;&gt;50 Kč&lt;/td&gt;&#xA;    &lt;/tr&gt;&#xA;    &lt;tr&gt;&#xA;        &lt;td&gt;Registrační poplatek pro mládež (do 15 let)&lt;/td&gt;&#xA;        &lt;td class=&#34;bold&#34;&gt;25 Kč&lt;/td&gt;&#xA;    &lt;/tr&gt;&#xA;    &lt;tr&gt;&#xA;        &lt;td&gt;Registrační poplatek pro seniory (60+ let)&lt;/td&gt;&#xA;        &lt;td class=&#34;bold&#34;&gt;25 Kč&lt;/td&gt;&#xA;    &lt;/tr&gt;&#xA;&lt;/table&gt;&#xA;&lt;h2 id=&#34;poplatky-z-prodlení&#34;&gt;Poplatky z prodlení&lt;/h2&gt;&#xA;&lt;p&gt;Poplatek z prodlení se vybírá bez písemné upomínky.&lt;/p&gt;&#xA;&lt;table class=&#34;pricing&#34;&gt;&#xA;    &lt;tr&gt;&#xA;        &lt;td&gt;Po 30 dnech uplynutí termínu vrácení&lt;/td&gt;&#xA;        &lt;td class=&#34;bold&#34;&gt;20 Kč&lt;/td&gt;&#xA;    &lt;/tr&gt;&#xA;    &lt;tr&gt;&#xA;        &lt;td&gt;Po 60 dnech uplynutí termínu vrácení&lt;/td&gt;&#xA;        &lt;td class=&#34;bold&#34;&gt;40 Kč&lt;/td&gt;&#xA;    &lt;/tr&gt;&#xA;    &lt;tr&gt;&#xA;        &lt;td&gt;Po 90 a více dnech uplynutí termínu vrácení&lt;/td&gt;&#xA;        &lt;td class=&#34;bold&#34;&gt;60 Kč&lt;/td&gt;&#xA;    &lt;/tr&gt;&#xA;&lt;/table&gt;&#xA;&lt;h2 id=&#34;upomínky&#34;&gt;Upomínky&lt;/h2&gt;&#xA;&lt;table class=&#34;pricing&#34;&gt;&#xA;    &lt;tr&gt;&#xA;        &lt;td&gt;1. upomínka&lt;/td&gt;&#xA;        &lt;td class=&#34;bold&#34;&gt;20 Kč&lt;/td&gt;&#xA;    &lt;/tr&gt;&#xA;    &lt;tr&gt;&#xA;        &lt;td&gt;2. upomínka&lt;/td&gt;&#xA;        &lt;td class=&#34;bold&#34;&gt;40 Kč&lt;/td&gt;&#xA;    &lt;/tr&gt;&#xA;    &lt;tr&gt;&#xA;        &lt;td&gt;3. upomínka&lt;/td&gt;&#xA;        &lt;td class=&#34;bold&#34;&gt;60 Kč&lt;/td&gt;&#xA;    &lt;/tr&gt;&#xA;&lt;/table&gt;&#xA;&lt;h2 id=&#34;náhrady-škod&#34;&gt;Náhrady škod&lt;/h2&gt;&#xA;&lt;p&gt;Znehodnocení nebo ztráta knihy nebo časopisu se nahrazuje úhradou peněžn íčástky ve výši ceny knihy nebo časopisu nebo náhradou škody jiným způsobem, který určí knihovník.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Katalog</title>
-      <link>http://localhost:57614/katalog/</link>
+      <link>http://localhost:1313/katalog/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:57614/katalog/</guid>
+      <guid>http://localhost:1313/katalog/</guid>
       <description>&lt;div class=&#34;catalogue-entry kniha&#34;&gt;&#xA;    &lt;div class=&#34;entry-cover&#34;&gt;&#xA;        &lt;img src=&#34;https://www.obalkyknih.cz/file/cover/3226554/medium&#34;&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;entry-info&#34;&gt;&#xA;        &lt;h4&gt;Lapuťák a kapitán Adorabl&lt;/h4&gt;&#xA;        &lt;p&gt;Dominik Landsman&lt;/p&gt;&#xA;        &lt;p&gt;Pikola, 2017&lt;/p&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;entry-type&#34;&gt;kniha&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;catalogue-entry kniha&#34;&gt;&#xA;    &lt;div class=&#34;entry-cover&#34;&gt;&#xA;        &lt;img src=&#34;https://www.obalkyknih.cz/file/cover/2320392/medium&#34;&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;entry-info&#34;&gt;&#xA;        &lt;h4&gt;Kapitán Adorabl a bambitka černokněžníka Vorána&lt;/h4&gt;&#xA;        &lt;p&gt;Dominik Landsman&lt;/p&gt;&#xA;        &lt;p&gt;Pikola, 2019&lt;/p&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;entry-type&#34;&gt;kniha&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;catalogue-entry kniha&#34;&gt;&#xA;    &lt;div class=&#34;entry-cover&#34;&gt;&#xA;        &lt;img src=&#34;https://www.obalkyknih.cz/file/cover/3262420/medium&#34;&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;entry-info&#34;&gt;&#xA;        &lt;h4&gt;Kapitán Adorabl a Toulavý ostrov&lt;/h4&gt;&#xA;        &lt;p&gt;Dominik Landsman, Ondřej Vojtěch&lt;/p&gt;&#xA;        &lt;p&gt;Pikola, 2024&lt;/p&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;entry-type&#34;&gt;kniha&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;catalogue-entry kniha&#34;&gt;&#xA;    &lt;div class=&#34;entry-cover&#34;&gt;&#xA;        &lt;img src=&#34;https://www.obalkyknih.cz/file/cover/3194387/medium&#34;&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;entry-info&#34;&gt;&#xA;        &lt;h4&gt;Eliška&lt;/h4&gt;&#xA;        &lt;p&gt;Táňa Keleová-Vasilková&lt;/p&gt;&#xA;        &lt;p&gt;Noxi, 2024&lt;/p&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;entry-type&#34;&gt;kniha&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;catalogue-entry kniha&#34;&gt;&#xA;    &lt;div class=&#34;entry-cover&#34;&gt;&#xA;        &lt;img src=&#34;https://www.obalkyknih.cz/file/cover/3250833/medium&#34;&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;entry-info&#34;&gt;&#xA;        &lt;h4&gt;Kočky a jejich báječný svět&lt;/h4&gt;&#xA;        &lt;p&gt;John Bradshaw&lt;/p&gt;&#xA;        &lt;p&gt;Bambook, 2025&lt;/p&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;entry-type&#34;&gt;kniha&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;catalogue-entry kniha&#34;&gt;&#xA;    &lt;div class=&#34;entry-cover&#34;&gt;&#xA;        &lt;img src=&#34;https://www.obalkyknih.cz/file/cover/3250792/medium&#34;&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;entry-info&#34;&gt;&#xA;        &lt;h4&gt;Mrtvá z ostrova Skye&lt;/h4&gt;&#xA;        &lt;p&gt;J. M. Dalgliesh&lt;/p&gt;&#xA;        &lt;p&gt;Cosmopolis, 2025&lt;/p&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;entry-type&#34;&gt;kniha&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;catalogue-entry kniha&#34;&gt;&#xA;    &lt;div class=&#34;entry-cover&#34;&gt;&#xA;        &lt;img src=&#34;https://www.obalkyknih.cz/file/cover/3262408/medium&#34;&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;entry-info&#34;&gt;&#xA;        &lt;h4&gt;Poslouchej, kdo lže&lt;/h4&gt;&#xA;        &lt;p&gt;Amy Tintera&lt;/p&gt;&#xA;        &lt;p&gt;Kalibr, 2025&lt;/p&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;entry-type&#34;&gt;kniha&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;catalogue-entry kniha&#34;&gt;&#xA;    &lt;div class=&#34;entry-cover&#34;&gt;&#xA;        &lt;img src=&#34;https://www.obalkyknih.cz/file/cover/3251583/medium&#34;&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;entry-info&#34;&gt;&#xA;        &lt;h4&gt;Rok kobylek&lt;/h4&gt;&#xA;        &lt;p&gt;Terry Hayes&lt;/p&gt;</description>
     </item>
     <item>
       <title>Kontakt</title>
-      <link>http://localhost:57614/kontakt/</link>
+      <link>http://localhost:1313/kontakt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:57614/kontakt/</guid>
-      <description>&lt;h2 id=&#34;napište-nám&#34;&gt;Napište nám!&lt;/h2&gt;&#xA;&lt;h4 id=&#34;knihovnameninczmailtoknihovnamenincz&#34;&gt;&lt;a href=&#34;mailto:knihovna@menin.cz&#34;&gt;knihovna@menin.cz&lt;/a&gt;&lt;/h4&gt;&#xA;&lt;div class=&#34;contact-container&#34;&gt;&#xA;    &lt;img src=&#34;http://localhost:57614/media/imgs/profiles/alena.jpeg&#34;&gt;&#xA;    &lt;div class=&#34;contact-info&#34;&gt;&#xA;        &lt;strong&gt;Bc. Alena Geršlová&lt;/strong&gt;&#xA;        &lt;em&gt;knihovnice&lt;/em&gt;&#xA;        &lt;a href=&#34;mailto:alena@knihovnamenin.cz&#34;&gt;alena@knihovnamenin.cz&lt;/a&gt;&#xA;        &#xA;        &#xA;        &lt;a href=&#34;tel:604612226&#34;&gt;604 612 226&lt;/a&gt;&#xA;    &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;contact-container&#34;&gt;&#xA;    &lt;img src=&#34;http://localhost:57614/media/imgs/profiles/petr.jpg&#34;&gt;&#xA;    &lt;div class=&#34;contact-info&#34;&gt;&#xA;        &lt;strong&gt;Petr Geršl&lt;/strong&gt;&#xA;        &lt;em&gt;knihovník, web&lt;/em&gt;&#xA;        &lt;a href=&#34;mailto:petr@knihovnamenin.cz&#34;&gt;petr@knihovnamenin.cz&lt;/a&gt;&#xA;        &#xA;        &#xA;        &lt;a href=&#34;tel:731347915&#34;&gt;731 347 915&lt;/a&gt;&#xA;    &lt;/div&gt;&#xA;&lt;/div&gt;</description>
+      <guid>http://localhost:1313/kontakt/</guid>
+      <description>&lt;h2 id=&#34;napište-nám&#34;&gt;Napište nám!&lt;/h2&gt;&#xA;&lt;h4 id=&#34;knihovnameninczmailtoknihovnamenincz&#34;&gt;&lt;a href=&#34;mailto:knihovna@menin.cz&#34;&gt;knihovna@menin.cz&lt;/a&gt;&lt;/h4&gt;&#xA;&lt;div class=&#34;contact-container&#34;&gt;&#xA;    &lt;img src=&#34;http://localhost:1313/media/imgs/profiles/alena.jpeg&#34;&gt;&#xA;    &lt;div class=&#34;contact-info&#34;&gt;&#xA;        &lt;strong&gt;Bc. Alena Geršlová&lt;/strong&gt;&#xA;        &lt;em&gt;knihovnice&lt;/em&gt;&#xA;        &lt;a href=&#34;mailto:alena@knihovnamenin.cz&#34;&gt;alena@knihovnamenin.cz&lt;/a&gt;&#xA;        &#xA;        &#xA;        &lt;a href=&#34;tel:604612226&#34;&gt;604 612 226&lt;/a&gt;&#xA;    &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;contact-container&#34;&gt;&#xA;    &lt;img src=&#34;http://localhost:1313/media/imgs/profiles/petr.jpg&#34;&gt;&#xA;    &lt;div class=&#34;contact-info&#34;&gt;&#xA;        &lt;strong&gt;Petr Geršl&lt;/strong&gt;&#xA;        &lt;em&gt;knihovník, web&lt;/em&gt;&#xA;        &lt;a href=&#34;mailto:petr@knihovnamenin.cz&#34;&gt;petr@knihovnamenin.cz&lt;/a&gt;&#xA;        &#xA;        &#xA;        &lt;a href=&#34;tel:731347915&#34;&gt;731 347 915&lt;/a&gt;&#xA;    &lt;/div&gt;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>O nás</title>
-      <link>http://localhost:57614/info/o-nas/</link>
+      <link>http://localhost:1313/info/o-nas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:57614/info/o-nas/</guid>
+      <guid>http://localhost:1313/info/o-nas/</guid>
       <description>&lt;h2 id=&#34;o-knihovně&#34;&gt;O knihovně&lt;/h2&gt;&#xA;&lt;p&gt;Obecní knihovna Měnín je místní knihovnou u nás v Měníně. Sídlíme v prvním patře polyfunkčního domu, hned vedle obecního úřadu.&lt;/p&gt;&#xA;&lt;p&gt;V naší knihovně se snažíme o přístup jak k moderní literatuře, tak k té starší, hlavně povinné četbě. Náš katalog je celkem rozsáhlý od dětských knížek, přes detektivky a červenou knihovnu až po knihy odborné a naučné. Snažíme se náš katalog neustále aktualizovat a přinášet vám, našim čtenářům, to nejlepší.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Řád knihovny</title>
-      <link>http://localhost:57614/info/rad-knihovny/</link>
+      <link>http://localhost:1313/info/rad-knihovny/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:57614/info/rad-knihovny/</guid>
+      <guid>http://localhost:1313/info/rad-knihovny/</guid>
       <description>&lt;p&gt;V souladu se zřizovací listinou obecní knihovny v Měníně a podle § 4, odst. 6 zákona č. 257/2001 Sb. (knihovní zákon), vydávám tento knihovní řád:&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Článek 1&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Poslání a činnost knihovny&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Obecní knihovna v Měníně (dále jen &amp;ldquo;knihovna&amp;rdquo;) je knihovnou základní ve smyslu § 3 a 12 zákona č. 257/2001 Sb. (knihovní zákon) a je zřízena za účelem poskytovat rovným způsobem všem občanům bez rozdílu veřejné knihovnické informační služby (dále jen &amp;ldquo;služby&amp;rdquo;) vymezené v § 2, 4 a 14 knihovního zákona.&lt;/p&gt;</description>
     </item>
   </channel>

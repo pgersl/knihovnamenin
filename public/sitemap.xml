@@ -2,32 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:57614/news/</loc>
+    <loc>http://localhost:1313/news/</loc>
     <lastmod>2024-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:57614/news/2/</loc>
+    <loc>http://localhost:1313/news/2/</loc>
     <lastmod>2024-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:57614/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:57614/news/3/</loc>
+    <loc>http://localhost:1313/news/3/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:57614/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>http://localhost:57614/info/cenik/</loc>
+    <loc>http://localhost:1313/info/cenik/</loc>
   </url><url>
-    <loc>http://localhost:57614/info/</loc>
+    <loc>http://localhost:1313/info/</loc>
   </url><url>
-    <loc>http://localhost:57614/katalog/</loc>
+    <loc>http://localhost:1313/katalog/</loc>
   </url><url>
-    <loc>http://localhost:57614/kontakt/</loc>
+    <loc>http://localhost:1313/kontakt/</loc>
   </url><url>
-    <loc>http://localhost:57614/info/o-nas/</loc>
+    <loc>http://localhost:1313/info/o-nas/</loc>
   </url><url>
-    <loc>http://localhost:57614/info/rad-knihovny/</loc>
+    <loc>http://localhost:1313/info/rad-knihovny/</loc>
   </url><url>
-    <loc>http://localhost:57614/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
