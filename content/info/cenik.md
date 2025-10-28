@@ -7,15 +7,11 @@ layout: single
 <table class="pricing">
     <tr>
         <td>Registrační poplatek pro dospělé</td>
-        <td class="bold">50 Kč</td>
+        <td class="bold">60 Kč</td>
     </tr>
     <tr>
         <td>Registrační poplatek pro mládež (do 15 let)</td>
-        <td class="bold">25 Kč</td>
-    </tr>
-    <tr>
-        <td>Registrační poplatek pro seniory (60+ let)</td>
-        <td class="bold">25 Kč</td>
+        <td class="bold">zdarma</td>
     </tr>
 </table>
 
