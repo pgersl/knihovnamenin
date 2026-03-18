@@ -1,8 +1,0 @@
----
-title: Nové stránky knihovny
-type: news
-image:
-date: 2024-06-02
----
-
-V rámci uplatňování nové vizuální identity má knihovna nové stránky. Bohužel se nám nepodařilo zachovat původní doménu ([menin.knihovna.cz](https://menin.knihovna.cz/)) a stránky tudíž přesouváme na novou doménu ([knihovnamenin.cz](https://knihovnamenin.cz)). Původní doména bude za nedlouho nefunkční. Nové stránky zohledňují nejmodernější designové trendy a zaměřují se na pohodlný uživatelský zážitek.

@@ -2,17 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/news/</loc>
-    <lastmod>2024-01-02T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/akce/</loc>
+    <lastmod>2026-03-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/2/</loc>
-    <lastmod>2024-01-02T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/akce/jak-ochr%C3%A1nit-sv%C3%A9-%C3%BAspory/</loc>
+    <lastmod>2026-03-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-01-02T00:00:00+00:00</lastmod>
+    <lastmod>2026-03-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/3/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/news/</loc>
+    <lastmod>2025-09-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/news/sledujte-nas-na-instagramu/</loc>
+    <lastmod>2025-09-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/news/zmena-oteviraci-doby/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/news/nova-vizualni-identita-knihovny/</loc>
+    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>

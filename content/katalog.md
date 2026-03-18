@@ -4,81 +4,96 @@ title: Katalog
 
 {{< catalogue-entry 
 type="kniha"
-cover="https://www.obalkyknih.cz/file/cover/3304389/preview510"
-title="Jeden z nás je zpět"
-author="Karen M. McManus"
-publisher="Yoli, 2025"
->}}
-
-{{< catalogue-entry 
-type="kniha"
-cover="https://www.obalkyknih.cz/file/cover/3291259/preview510"
-title="Tiché kroky na schodech"
-author="Eva Björg Ægisdóttir"
-publisher="Vendeta, 2025"
->}}
-
-
-{{< catalogue-entry 
-type="kniha"
-cover="https://www.obalkyknih.cz/file/cover/3333863/preview510"
-title="Román měsíce"
-author="Jennifer Probst"
-publisher="Ikar, 2025"
->}}
-
-{{< catalogue-entry 
-type="kniha"
-cover="https://www.obalkyknih.cz/file/cover/3339967/preview510"
-title="Ledový Hrob"
-author="Dana Stabenow"
-publisher="Mystery Press, 2025"
->}}
-
-{{< catalogue-entry 
-type="kniha"
-cover="https://www.obalkyknih.cz/file/cover/3289954/preview510"
-title="Bezduší mrtví"
-author="Darcy Caotes"
-publisher="Fobos, 2025"
->}}
-
-{{< catalogue-entry 
-type="kniha"
-cover="https://www.obalkyknih.cz/file/cover/3181443/preview510"
-title="Nenasytní mrtví"
-author="Darcy Caotes"
-publisher="Fobos, 2024"
->}}
-
-{{< catalogue-entry 
-type="kniha"
-cover="https://www.obalkyknih.cz/file/cover/3189147/preview510"
-title="Nenasytní mrtví"
-author="Angela Marsons"
-publisher="Fobos, 2025"
->}}
-
-{{< catalogue-entry 
-type="kniha"
-cover="https://www.obalkyknih.cz/file/cover/3196260/preview510"
-title="Šest rakví"
-author="Terry Hayes"
-publisher="Kalibr, 2024"
->}}
-
-{{< catalogue-entry 
-type="kniha"
-cover="https://www.obalkyknih.cz/file/cover/3298762/preview510"
-title="Schované jizvy"
-author="Angela Marsons"
+cover="https://www.obalkyknih.cz/file/cover/3300382/preview510"
+title="Co jste to provedli?"
+author="Shari Lapena"
 publisher="Kalibr, 2025"
 >}}
 
 {{< catalogue-entry 
 type="kniha"
-cover="https://www.obalkyknih.cz/file/cover/3335154/preview510"
-title="Rošťáci v akci a tajemství kouzelné jeskyně"
-author="Petra Martišková, Marie Koželuhová"
-publisher="Bambook, 2025"
+cover="https://www.obalkyknih.cz/file/cover/3155387/preview510"
+title="Pád do temnoty"
+author="Andrew Mayne"
+publisher="Kalibr, 2024"
+>}}
+
+{{< catalogue-entry 
+type="kniha"
+cover="https://www.obalkyknih.cz/file/cover/3301270/preview510"
+title="Rezavý les"
+author="Anders de la Motte"
+publisher="Kalibr, 2025"
+>}}
+
+{{< catalogue-entry 
+type="kniha"
+cover="https://www.obalkyknih.cz/file/cover/3418287/preview510"
+title="Muž s prstenem"
+author="Jan-Erik Fjell"
+publisher="Vendeta, 2026"
+>}}
+
+{{< catalogue-entry 
+type="kniha"
+cover="https://www.obalkyknih.cz/file/cover/3379082/preview510"
+title="Plný dům"
+author="Jojo Moyesová"
+publisher="Ikar, 2025"
+>}}
+
+{{< catalogue-entry 
+type="kniha"
+cover="https://www.obalkyknih.cz/file/cover/2755897/preview510"
+title="Smrt přichází na prohlídku"
+author="Anders de la Motte"
+publisher="Kalibr, 2022"
+>}}
+
+{{< catalogue-entry 
+type="kniha"
+cover="https://www.obalkyknih.cz/file/cover/2901856/preview510"
+title="Smrt číhá na jarmarku"
+author="Anders de la Motte"
+publisher="Kalibr, 2023"
+>}}
+
+{{< catalogue-entry 
+type="kniha"
+cover="https://www.obalkyknih.cz/file/cover/3421342/preview510"
+title="Zlá krev"
+author="Dana Stabenow"
+publisher="Mystery Press, 2026"
+>}}
+
+{{< catalogue-entry 
+type="kniha"
+cover="https://www.obalkyknih.cz/file/cover/3409366/preview510"
+title="Áďa a já - Pro všechny, kdo se odlišují"
+author="Rich Pink, Rox Pink"
+publisher="Bambook, 2026"
+>}}
+
+{{< catalogue-entry 
+type="kniha"
+cover="https://www.obalkyknih.cz/file/cover/3457688/preview510"
+title="Tajemství abatyše z Assisi"
+author="Vlastimil Vondruška"
+publisher="MOBA, 2010"
+>}}
+
+{{< catalogue-entry 
+type="kniha"
+cover="https://www.obalkyknih.cz/file/cover/3400436/preview510"
+title="Byzantská pouť"
+author="Vlastimil Vondruška"
+publisher="MOBA, 2026"
+>}}
+
+{{< catalogue-entry 
+type="kniha"
+cover="https://www.obalkyknih.cz/file/cover/3411942/preview510"
+title="Poslední epocha"
+author="Andrew Mayne"
+publisher="Kalibr, 2026"
 >}}

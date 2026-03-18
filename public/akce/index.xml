@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Akce on Obecní knihovna Měnín</title>
+    <link>http://localhost:1313/akce/</link>
+    <description>Recent content in Akce on Obecní knihovna Měnín</description>
+    <generator>Hugo</generator>
+    <language>cs-cz</language>
+    <lastBuildDate>Mon, 13 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/akce/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jak ochránit své úspory?</title>
+      <link>http://localhost:1313/akce/jak-ochr%C3%A1nit-sv%C3%A9-%C3%BAspory/</link>
+      <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/akce/jak-ochr%C3%A1nit-sv%C3%A9-%C3%BAspory/</guid>
+      <description>&lt;p&gt;#přednáška&lt;/p&gt;&#xA;&lt;p&gt;Jak Češi spoří dnes? Co na naše investice působí? Jaké role plní jednotlivé složky našich portfolií? Petr Geršl, akreditovaný poradce skupiny Golden Gate, rozebere během své přednášky aktuální stav úspor českých domácností a ukáže, jak je ochránit v kontextu aktuálního dění.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

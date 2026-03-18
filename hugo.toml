@@ -4,9 +4,10 @@ title = 'Obecní knihovna Měnín'
 
 uglyURLs = false
 enableEmoji = true
+buildFuture = true
 
 [params]
     description = "Oficiální stránky Obecní knihovny Měnín"
 
 [markup.goldmark.renderer]
-    unsafe = "true"
+    unsafe = true

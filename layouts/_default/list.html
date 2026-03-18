@@ -1,0 +1,26 @@
+{{define "styles"}}
+    <link rel="stylesheet" href="/css/single.css">
+    <link rel="stylesheet" href="/css/list.css">
+{{end}}
+
+{{define "main"}}
+    <section id="header">
+        <div class="section-content">
+            <h1>{{.Title}}</h1>
+        </div>
+    </section>
+    <section id="main-content">
+        {{range .Pages}}
+            <div class="list-card">
+                <img src="{{.Params.img}}">
+                <div class="list-card-info">
+                    <h2>{{.Title}}</h2>
+                    <div>{{.Content}}</div>
+                    <a href="{{.Params.reg}}">Přihlášení &rarr;</a>
+                </div>
+                <div class="list-card-date">{{.Date | time.Format "2. 1. 2006"}}, {{.Params.eventTime}}</div>
+            </div>
+        {{end}}
+    </section>
+    {{partial "cta.html" .}}
+{{end}}

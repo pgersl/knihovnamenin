@@ -7,14 +7,7 @@ layout: single
 #### [knihovna@menin.cz](mailto:knihovna@menin.cz)
 
 {{< contact
-img="alena.jpeg"
-name="Bc. Alena Geršlová"
-position="knihovnice"
-phone="604 612 226"
->}}
-
-{{< contact
-img="petr.jpg"
+img="petr.PNG"
 name="Petr Geršl"
 position="knihovník, web"
 phone="731 347 915"
