@@ -4,7 +4,7 @@ layout: single
 date: 2026-04-13
 eventTime: od 17:30
 img: /media/imgs/akce/jak-ochranit-sve-uspory.png
-reg: ""
+reg: "https://forms.gle/B9zyw84DAmvUJBWk7"
 ---
 
 #přednáška
