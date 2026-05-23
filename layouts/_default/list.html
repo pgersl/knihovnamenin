@@ -12,7 +12,11 @@
     <section id="main-content">
         {{range .Pages}}
             <div class="list-card">
-                <img src="{{.Params.img}}">
+                <div class="list-card-graphics">
+                    {{with .Params.img}}
+                        <img src="{{.}}">
+                    {{end}}
+                </div>
                 <div class="list-card-info">
                     <h2>{{.Title}}</h2>
                     <div>{{.Content}}</div>

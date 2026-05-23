@@ -1,97 +1,189 @@
+/* ─── PAGE HEADER ────────────────────────────────────────── */
+
 #header {
-    --s: 80px; /* control the size*/
+    --s: 120px;
     --c1: var(--primary-clr-darkest);
     --c2: var(--primary-clr-darker);
-    
-    --_c: var(--c1) 25%,#0000 0;
-    --_g1: conic-gradient(at 62.5% 12.5%,var(--_c));
-    --_g2: conic-gradient(at 87.5% 62.5%,var(--_c));
-    --_g3: conic-gradient(at 25%   12.5%,var(--_c));
+
+    --g:,var(--c1) 25%,#0000 0;
     background:
-      var(--_g1) calc( var(--s)/-8) calc(var(--s)/2),var(--_g1) calc(-3*var(--s)/8) calc(var(--s)/4),
-      var(--_g2) calc(3*var(--s)/8) calc(var(--s)/4),var(--_g2) calc(  var(--s)/-8) 0,
-      var(--_g3) 0 calc(var(--s)/-4),var(--_g3) calc(var(--s)/-4) 0,
-      conic-gradient(at 87.5% 87.5%,var(--_c)) calc(var(--s)/8) 0
-      var(--c2);
+      conic-gradient(from  45deg at 75% 75%var(--g)),
+      conic-gradient(from 135deg at 25% 75%var(--g)),
+      conic-gradient(from -45deg at 75% 25%var(--g)),
+      conic-gradient(from 225deg at 25% 25%var(--g)),
+      repeating-conic-gradient(from -45deg,var(--c1) 0 45deg,var(--c2) 0 50%);
     background-size: var(--s) var(--s);
     color: var(--background-clr1);
     text-align: center;
+    padding: 4rem 0;
 }
 #header h1 {
     margin-bottom: 0;
+    font-size: clamp(2rem, 5vw, var(--h1-size));
 }
 
+/* ─── MAIN CONTENT ───────────────────────────────────────── */
+
+#main-content {
+    padding: 4rem 0;
+}
 .section-content {
     width: var(--narrow);
 }
 
-.pricing {
-    border-collapse: collapse;
-    margin-bottom: 2rem;
+/* Prose spacing */
+.section-content p {
+    margin-bottom: 1.1rem;
 }
-.pricing:nth-of-type(2), .pricing:nth-of-type(4) {
-    margin-top: 1rem;
+.section-content h2 {
+    margin-top: 2.5rem;
 }
-.pricing td {
-    padding-block: .3rem;
-}
-td.bold {
-    font-weight: bold;
-    padding-left: 2rem;
-    white-space: nowrap;
+.section-content h3,
+.section-content h4 {
+    margin-top: 1.75rem;
 }
 
-h4 a {
-    text-decoration: underline;
-    color: inherit;
+/* ─── PRICING TABLES ─────────────────────────────────────── */
+
+.pricing {
+    border-collapse: collapse;
+    width: 100%;
+    margin-bottom: 2rem;
+    border-radius: var(--border-radius);
+    overflow: hidden;
 }
-h4 a:hover {
-    color: var(--primary-clr);
+.pricing tr:nth-child(odd) {
+    background-color: var(--primary-clr-lighter);
 }
+.pricing tr:nth-child(even) {
+    background-color: var(--background-clr1);
+}
+.pricing td {
+    padding: .55rem .85rem;
+    font-size: .95rem;
+    line-height: 1.5;
+}
+.pricing td:first-child {
+    color: var(--text-clr);
+}
+td.bold {
+    font-weight: 700;
+    color: var(--primary-clr-dark);
+    padding-left: 2rem;
+    white-space: nowrap;
+    text-align: right;
+}
+
+/* ─── CONTACT COMPONENT ──────────────────────────────────── */
 
 .contact-container {
     display: flex;
     flex-direction: row;
     align-items: center;
-    justify-content: center;
     gap: 2rem;
-    width: fit-content;
+    padding: 1.75rem 2rem;
+    background-color: var(--background-clr2);
+    border-radius: var(--border-radius-lg);
+    border-left: 4px solid var(--primary-clr);
     margin-top: 2rem;
+    width: fit-content;
 }
 .contact-container img {
-    width: 10rem;
-    border-radius: 100%;
+    width: 7rem;
+    height: 7rem;
+    border-radius: 50%;
+    object-fit: cover;
+    box-shadow: var(--box-shadow-sm);
+    flex-shrink: 0;
 }
 .contact-info {
     display: flex;
     flex-direction: column;
     align-items: flex-start;
     justify-content: center;
+    gap: .2rem;
+}
+.contact-info strong {
+    font-size: var(--h4-size);
+    font-weight: 700;
+}
+.contact-info em {
+    font-size: .9rem;
+    color: #666;
+    margin-bottom: .35rem;
 }
 .contact-info a {
-    color: inherit;
+    color: var(--primary-clr);
+    text-decoration: none;
+    font-size: .9rem;
+    font-weight: 600;
+    position: relative;
+}
+.contact-info a::after {
+    content: '';
+    position: absolute;
+    bottom: -.1rem;
+    left: 0;
+    width: 0;
+    height: .15rem;
+    background-color: var(--primary-clr);
+    border-radius: 1px;
+    transition: var(--transition);
+}
+.contact-info a:hover::after {
+    width: 100%;
 }
 .contact-info a:hover {
-    color: var(--primary-clr);
+    color: var(--primary-clr-dark);
 }
 
-p {
-    margin-bottom: 1rem;
-}
-
-.řád-knihovny strong {
-    text-align: center;
-    display: block;
-}
+/* ─── INLINE IMAGES ──────────────────────────────────────── */
 
 p img {
     width: 100%;
-    margin-block: 1rem;
+    border-radius: var(--border-radius-lg);
+    margin-block: 1.5rem;
+    box-shadow: var(--box-shadow);
 }
 
-@media (max-width:400px) {
+/* ─── LIBRARY RULES PAGE ─────────────────────────────────── */
+
+/* The .řád-knihovny class is generated from the page title */
+.řád-knihovny strong {
+    text-align: center;
+    display: block;
+    font-size: var(--h4-size);
+    color: var(--primary-clr-dark);
+    margin: 1.75rem 0 .5rem;
+}
+.řád-knihovny em {
+    display: block;
+    text-align: center;
+    font-style: italic;
+    color: #666;
+    margin-bottom: 1.25rem;
+}
+
+/* Inline heading links (e.g. h4 a in legal docs) */
+h4 a {
+    text-decoration: underline;
+    text-underline-offset: .15em;
+    color: inherit;
+}
+h4 a:hover {
+    color: var(--primary-clr);
+}
+
+/* ─── RESPONSIVE ─────────────────────────────────────────── */
+
+@media (max-width: 500px) {
     .contact-container {
         flex-direction: column;
-        gap: .7rem;
+        align-items: flex-start;
+        gap: 1rem;
+    }
+    .contact-container img {
+        width: 6rem;
+        height: 6rem;
     }
 }

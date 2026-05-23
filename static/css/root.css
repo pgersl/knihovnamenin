@@ -11,20 +11,28 @@
     --mega-size: 5rem;
     --tiny-size: 0.75rem;
 
+    /* Backgrounds */
     --background-clr1: #ffffff;
     --background-clr2: #f0f0f0;
     --background-clr3: #e0e0e0;
     --background-clr4: #d0d0d0;
+
+    /* Text */
     --text-clr: #000000;
+
+    /* Primary blue ramp — unchanged from original */
     --primary-clr: #2473B5;
     --primary-clr-dark: #0D5088;
     --primary-clr-darker: #0b385d;
     --primary-clr-darkest: #07233b;
     --primary-clr-light: #b7e2ff;
+    --primary-clr-lighter: #e6f4ff;   /* NEW — used for badge fills, table zebra, hover */
 
     --spacer: 5rem 0;
     --border-radius: 0.5rem;
+    --border-radius-lg: 1rem;          /* NEW — for cards and larger surfaces */
     --box-shadow: 0 .4rem 1.6rem rgba(0, 0, 0, 0.136);
+    --box-shadow-sm: 0 .2rem .8rem rgba(0, 0, 0, 0.10);  /* NEW — subtle lift on hover */
     --transition: all .1s ease-in-out;
     --wide: min(95%, 1400px);
     --narrow: min(95%, 700px);
